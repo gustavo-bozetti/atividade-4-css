@@ -4,7 +4,8 @@ Clone este repositório na sua máquina.
 
 A sua estrutura HTML estará assim:
 
-![Captura de tela 2024-08-29 093009](https://github.com/user-attachments/assets/e63c501e-bbf6-41ff-a889-2b93e04089c4)
+![image](https://github.com/user-attachments/assets/5d9328b2-fbaa-452b-b3eb-e1ef41eb7c65)
+
 
 ## Exercício
 
